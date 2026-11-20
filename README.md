@@ -4,11 +4,11 @@
 
 Shinbyō hikki is a Literary Chinese diagnostic notebook attributed to Miyake (三宅均). It opens with dated observations from 1837 and continues with individual cases, patient ages, and courses of illness. The edition follows the manuscript F-シ-191 at Keio University’s Kitasato Memorial Medical Library.
 
-## V0.1.0
+## V0.2.0
 
-同裝冊 26 幅全部定位。轉錄第5幅左面至第11幅左面的漢文正篇（7 幅、13 個有字書面），另錄封籤及前葉署款。第12幅起為附稿，保留影像入口。本版為 AI 輔助逐欄初錄，筆形未明處留疑。
+同裝冊 26 幅全部定位。轉錄第5幅左面至第11幅左面的漢文正篇（7 幅、13 個有字書面），另錄封籤及前葉署款。第12幅起為附稿，保留影像入口。比對未見初稿的本機 OCR 候選後，回圖裁定採用 42 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 26 scans are indexed. The Literary Chinese work occupies 13 written faces across scans 5–11. Cover labels and the prefatory signature are recorded separately. Subsequent bound-in writings are linked at their source locations. AI-assisted initial transcription with unresolved handwriting marked.
+All 26 scans are indexed. The Literary Chinese work occupies 13 written faces across scans 5–11. Cover labels and the prefatory signature are recorded separately. Subsequent bound-in writings are linked at their source locations. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 42 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

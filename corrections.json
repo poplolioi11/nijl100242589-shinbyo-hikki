@@ -1,0 +1,772 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 42,
+  "changes": [
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "relayer",
+      "before": "版面描述與原字同列",
+      "after": "另列編者版面說明",
+      "reason": "實際右面只有印記與淡反透，編者說明明確區分。",
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "左頁第7欄上方眉注（有為旁書小字）",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左3旁添",
+      "after": "左3旁添",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 4,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左4旁添",
+      "after": "左4旁添",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右2、右3並行小字",
+      "after": "右2、右3並行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右3、右4間小字",
+      "after": "右3、右4間小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右7下注文",
+      "after": "右7下注文",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左1旁添",
+      "after": "左1旁添",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左3旁注",
+      "after": "左3旁注",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右7旁添",
+      "after": "右7旁添",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右9旁注",
+      "after": "右9旁注",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左7窗注",
+      "after": "左7窗注",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左7医名小字",
+      "after": "左7医名小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右9医名小字",
+      "after": "右9医名小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "上欄小字",
+      "after": "上欄小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左1夾注",
+      "after": "左1夾注",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "進藤曰□",
+      "after": "進藤士番",
+      "reason": "放大後末兩字可分士及番，照錄原旁註。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第3欄「前」外小字",
+      "after": "右頁第3欄「前」外小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第3欄「医」後雙行小字",
+      "after": "右頁第3欄「医」後雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第5欄「膊」後雙行小字",
+      "after": "右頁第5欄「膊」後雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 8,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第8欄上段雙行小字",
+      "after": "右頁第8欄上段雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁末欄「番」左小字",
+      "after": "右頁末欄「番」左小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第3欄「許之」右小字",
+      "after": "左頁第3欄「許之」右小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "亢動々則致□癪",
+      "after": "亢動〻則致□□",
+      "reason": "重複符號是雙筆連記，癪字未能清楚辨出，維持兩個未定位置。",
+      "offset": [
+        11,
+        18
+      ],
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "壓一切",
+      "after": "厭一切",
+      "reason": "原字厂內下部未見土，按圖改作厭。",
+      "offset": [
+        13,
+        16
+      ],
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 9,
+      "kind": "paratext",
+      "op": "replace",
+      "before": "後藤／逸",
+      "after": "後藤／元迪",
+      "reason": "第二細行可分元、迪兩字；元字橫筆和下兩筆可見。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 9,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第9欄「室」右小字",
+      "after": "右頁第9欄「室」右小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 9,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第9欄「医」後雙行小字",
+      "after": "右頁第9欄「医」後雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第2欄上方雙行小字",
+      "after": "左頁第2欄上方雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 6,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第6欄上方雙行小字",
+      "after": "左頁第6欄上方雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第7欄上方雙行小字",
+      "after": "左頁第7欄上方雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 1,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "右頁第1欄上方雙行小字",
+      "after": "右頁第1欄上方雙行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第2欄「室」右小字",
+      "after": "左頁第2欄「室」右小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第3欄上方三行小字",
+      "after": "左頁第3欄上方三行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "左頁第7欄上方四行小字",
+      "after": "左頁第7欄上方四行小字",
+      "reason": "邊注按原面與所對正文欄定位；整頁特徵單列。",
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "status": "字形或附註位置保留候讀"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10",
+      "status": "字形或附註位置保留候讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5",
+      "source_bbox": [
+        840,
+        305,
+        945,
+        590
+      ],
+      "reading": "天保丁酉春予自",
+      "status": "依原圖留讀",
+      "reason": "年號、干支及春字可辨，記文中事件時間。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5",
+      "source_bbox": [
+        812,
+        842,
+        868,
+        1035
+      ],
+      "reading": "米穀不稔",
+      "status": "依原圖留讀",
+      "reason": "稔左見禾，右近念形，旁存候讀。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 9,
+      "source_image_sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8",
+      "source_bbox": [
+        1022,
+        287,
+        1110,
+        868
+      ],
+      "reading": "茶屋利兵衛妻年廿五六",
+      "status": "依原圖留讀",
+      "reason": "兵下兩短筆，衛字有行旁，廿字一橫兩豎。"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8",
+      "source_bbox": [
+        580,
+        440,
+        654,
+        746
+      ],
+      "reading": "後藤元迪",
+      "status": "依原圖留讀",
+      "reason": "末字從由，書形近廸，保留候讀。"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11",
+      "source_bbox": [
+        882,
+        305,
+        944,
+        596
+      ],
+      "reading": "堀田金弥室",
+      "status": "依原圖留讀",
+      "reason": "姓名可據原圖讀出，妻是室旁小字。"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11",
+      "source_bbox": [
+        688,
+        295,
+        748,
+        700
+      ],
+      "reading": "三好半五郎男年十歳許",
+      "status": "依原圖留讀",
+      "reason": "五、郎、男可分，年齡標記照原稿。"
+    }
+  ]
+}

@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -171,15 +171,15 @@
         <pb n="4" facs="#f04" />
         <div n="4" type="scan" subtype="covers-and-ownership-marks">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前襯鉛筆字上</label>
               <seg type="diplomatic-text" rend="unknown">490.9／Sh-1</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前襯鉛筆字中</label>
               <seg type="diplomatic-text" rend="unknown">No.3617</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前襯鉛筆字下</label>
               <seg type="diplomatic-text" rend="unknown">12 S 90</seg>
             </ab>
@@ -191,21 +191,21 @@
               <label>前襯下朱印</label>
               <seg type="diplomatic-text" rend="red">富士川文庫</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前襯下墨號</label>
               <seg type="diplomatic-text" rend="unknown">1924</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前葉右題</label>
               <seg type="diplomatic-text" rend="unknown">鄙稿</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>前葉左題</label>
               <seg type="diplomatic-text" rend="unknown">斧政</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>題下署名</label>
               <seg type="diplomatic-text" rend="unknown">三宅均拜</seg>
             </ab>
@@ -217,10 +217,6 @@
         <pb n="5" facs="#f05" />
         <div n="5" type="scan" subtype="diagnostic-notes">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>版面</label>
-              <seg type="diplomatic-text" rend="unknown">正文未起，中央有朱色方印，可見透字。</seg>
-            </ab>
             <ab type="page-feature" subtype="seal">
               <label>藏印</label>
               <seg type="diplomatic-text" rend="unknown">慶應義塾／大學醫學部／北里記念圖書（依篆形暫辨，「部」待覆核）</seg>
@@ -257,21 +253,21 @@
             <ab type="column" n="10" xml:id="f05-l-c10">
               <seg type="diplomatic-text">譫語如見鬼狀是其爲陽証判然可知也但切其脉沈実</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c10">
-              <label>上欄小字</label>
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f05-l-c07">
+              <label>左頁第7欄上方眉注（有為旁書小字）</label>
               <seg type="diplomatic-text" rend="unknown">明吳有性／字又可著／温疫論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f05-l-c03">
               <label>左3旁添</label>
               <seg type="diplomatic-text" rend="unknown">至（鄰「蒸暄」，黑色重描字字界待核）</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f05-l-c04">
               <label>左4旁添</label>
               <seg type="diplomatic-text" rend="unknown">也（鄰「耳」）</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">左面：左3「蒸暄」間有重描及旁添，未臆補原字。左5「均長」、左6「噬」、左9「候」均暫讀，待覆核。 左面：底本 SHA-256 775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea。</ab>
+            <ab type="layout">右面：正文由左面起，右面有館藏方印。 左面：左3「蒸暄」間有重描及旁添，未臆補原字。左5「均長」、左6「噬」、左9「候」均暫讀，待覆核。 左面：底本 SHA-256 775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea。</ab>
           </div>
         </div>
         <pb n="6" facs="#f06" />
@@ -307,27 +303,27 @@
             <ab type="column" n="10" xml:id="f06-r-c10">
               <seg type="diplomatic-text">啻諸証之日盛実依此一味也乃与柴胡陷胸加附子細</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">石膏涼藥附子温物相爲仇敵</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">荻野台州乃尚藥医名京中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">白虎湯主用石膏</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右2、右3並行小字</label>
               <seg type="diplomatic-text" rend="unknown">台州</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右3、右4間小字</label>
               <seg type="diplomatic-text" rend="unknown">奏其功／〔日文小字數字待辨〕</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右7下注文</label>
               <seg type="diplomatic-text" rend="unknown">吉村文哲</seg>
             </ab>
@@ -363,11 +359,11 @@
             <ab type="column" n="10" xml:id="f06-l-c10">
               <seg type="diplomatic-text">試与柴陷加大黄一服明日大便瀉利神氣稍衰乃知其</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f06-l-c01">
               <label>左1旁添</label>
               <seg type="diplomatic-text" rend="unknown">後（「与」旁）</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>左3旁注</label>
               <seg type="diplomatic-text" rend="unknown">茯苓（近「水」字）</seg>
             </ab>
@@ -375,8 +371,9 @@
           <div type="editorial-observations">
             <ab type="layout">左面：右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。 左面：底本 SHA-256 9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32。</ab>
             <ab type="transcription-issue" n="left:1">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+              <quote>續□</quote>
+              <seg type="candidate">州</seg>
+              <note type="editorial">第6、7幅四見同形，形近州，未定字照留。</note>
             </ab>
             <ab type="transcription-issue" n="left:None">
               <quote>予</quote>
@@ -433,23 +430,23 @@
             <ab type="column" n="10" xml:id="f07-r-c10">
               <seg type="diplomatic-text">治其熱以待自然當其盛則橘皮丁香真陶犬瓦雞耳吳</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">脉舌ノ様ハ〔未定〕</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">內經素問後人以爲黄帝所著</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">橘皮丁香古來以爲治呃逆主藥</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f07-r-c07">
               <label>右7旁添</label>
               <seg type="diplomatic-text" rend="unknown">後（鄰「第」）；頗（鄰「始」）</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右9旁注</label>
               <seg type="diplomatic-text" rend="unknown">拘ル（小字假名）</seg>
             </ab>
@@ -485,15 +482,15 @@
             <ab type="column" n="10" xml:id="f07-l-c10">
               <seg type="diplomatic-text">十七八日諸証漸退但身重足弱乃与医王加麥門冬五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">柴葛解肌湯方中有石膏真武湯方中主附子</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>左7窗注</label>
               <seg type="diplomatic-text" rend="unknown">以後〔字形與旁訂位置待辨〕</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>左7医名小字</label>
               <seg type="diplomatic-text" rend="unknown">龍神良仙</seg>
             </ab>
@@ -501,16 +498,19 @@
           <div type="editorial-observations">
             <ab type="layout">左面：右1、右7、左9「續」後字與第6幅相同，待互證。右4「樽」、右10「真陶犬瓦」、左3「禓」、左6「幡」均暫讀，待覆核。 左面：底本 SHA-256 93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567。</ab>
             <ab type="transcription-issue" n="right:1">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+              <quote>續□</quote>
+              <seg type="candidate">州</seg>
+              <note type="editorial">第6、7幅四見同形，形近州，未定字照留。</note>
             </ab>
             <ab type="transcription-issue" n="right:7">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+              <quote>續□</quote>
+              <seg type="candidate">州</seg>
+              <note type="editorial">第6、7幅四見同形，形近州，未定字照留。</note>
             </ab>
             <ab type="transcription-issue" n="left:9">
-              <quote>□</quote>
-              <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+              <quote>續□</quote>
+              <seg type="candidate">州</seg>
+              <note type="editorial">第6、7幅四見同形，形近州，未定字照留。</note>
             </ab>
           </div>
         </div>
@@ -547,7 +547,7 @@
             <ab type="column" n="10" xml:id="f08-r-c10">
               <seg type="diplomatic-text">陷胸湯黄連解毒湯類副以泊夫藍龍腦五月二日辰牌</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右9医名小字</label>
               <seg type="diplomatic-text" rend="unknown">山嵜松意</seg>
             </ab>
@@ -583,11 +583,11 @@
             <ab type="column" n="10" xml:id="f08-l-c10">
               <seg type="diplomatic-text">復嗚乎微後藤氏之勇則不至如此孫真人曰志欲大信</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>上欄小字</label>
               <seg type="diplomatic-text" rend="unknown">桂枝延胡諸藥皆破血峻撃之劑</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f08-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>左1夾注</label>
               <seg type="diplomatic-text" rend="unknown">凡妊娠未彌月因病致産者十七八爲死胎</seg>
             </ab>
@@ -633,23 +633,23 @@
             <ab type="column" n="10" xml:id="f09-r-c10">
               <seg type="diplomatic-text">不許苦楚漸加腹内痺痛不眠徹晨明晨其族進藤士番</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f09-r-c03">
               <label>右頁第3欄「前」外小字</label>
               <seg type="diplomatic-text" rend="unknown">某</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f09-r-c03">
               <label>右頁第3欄「医」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">龍神／良仙</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f09-r-c05">
               <label>右頁第5欄「膊」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">露手及膊者／於術為難</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f09-r-c08">
               <label>右頁第8欄上段雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">諸產科施回生術必俟胎死／予所得則有下活胎之法</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation">
               <label>右頁末欄「番」左小字</label>
               <seg type="diplomatic-text" rend="unknown">大</seg>
             </ab>
@@ -685,9 +685,9 @@
             <ab type="column" n="10" xml:id="f09-l-c10">
               <seg type="diplomatic-text">而妊產者前後六回逆產者一兒育者一人左股下有塊</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f09-l-c03">
               <label>左頁第3欄「許之」右小字</label>
-              <seg type="diplomatic-text" rend="unknown">進藤曰□</seg>
+              <seg type="diplomatic-text" rend="unknown">進藤士番</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -748,7 +748,7 @@
               <seg type="diplomatic-text">用藥之久碎其塊而化其質則将来又不可量也</seg>
             </ab>
             <ab type="column" n="3" xml:id="f10-r-c03">
-              <seg type="diplomatic-text">丹羽正□妹年廿歲許肝木亢動々則致□癪心下石硬</seg>
+              <seg type="diplomatic-text">丹羽正□妹年廿歲許肝木亢動〻則致□□心下石硬</seg>
             </ab>
             <ab type="column" n="4" xml:id="f10-r-c04">
               <seg type="diplomatic-text">大便堅実甚則手足軟痿或數日不省人事三兩年前患</seg>
@@ -771,13 +771,13 @@
             <ab type="column" n="10" xml:id="f10-r-c10">
               <seg type="diplomatic-text">増劇延予曰廃藥待子久矣予診之心下石硬痛不可近</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f10-r-c09">
               <label>右頁第9欄「室」右小字</label>
               <seg type="diplomatic-text" rend="unknown">妻</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f10-r-c09">
               <label>右頁第9欄「医」後雙行小字</label>
-              <seg type="diplomatic-text" rend="unknown">後藤／逸</seg>
+              <seg type="diplomatic-text" rend="unknown">後藤／元迪</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -800,7 +800,7 @@
               <seg type="diplomatic-text">陳藏器曰風在骨節間及血瘀者作酒服之</seg>
             </ab>
             <ab type="column" n="7" xml:id="f10-l-c07">
-              <seg type="diplomatic-text">甄權曰治大熱煩躁止渇利小便壓一切熱毒</seg>
+              <seg type="diplomatic-text">甄權曰治大熱煩躁止渇利小便厭一切熱毒</seg>
             </ab>
             <ab type="column" n="8" xml:id="f10-l-c08">
               <seg type="diplomatic-text">又曰暑月以根和甘草同煎為飲色如琥珀可愛甚甘美</seg>
@@ -811,15 +811,15 @@
             <ab type="column" n="10" xml:id="f10-l-c10">
               <seg type="diplomatic-text">極解暑毒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f10-l-c02">
               <label>左頁第2欄上方雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">漢張機／傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f10-l-c06">
               <label>左頁第6欄上方雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">唐人著／本艸拾遺</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f10-l-c07">
               <label>左頁第7欄上方雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">唐人著／藥性本艸</seg>
             </ab>
@@ -865,11 +865,11 @@
             <ab type="column" n="10" xml:id="f11-r-c10">
               <seg type="diplomatic-text">眞鄙民之常豈足以議乎或波多野青雅以鬻藥為産以</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f11-r-c01">
               <label>右頁第1欄上方雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">晉葛洪／著</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c10">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f11-r-c10">
               <label>右頁第10欄上方三行小字</label>
               <seg type="diplomatic-text" rend="unknown">波多野青雅／称増田屋／太郎市者</seg>
             </ab>
@@ -899,15 +899,15 @@
             <ab type="column" n="8" xml:id="f11-l-c08">
               <seg type="diplomatic-text">便耳用劑相反則災害並至不可不慎也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c08">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f11-l-c02">
               <label>左頁第2欄「室」右小字</label>
               <seg type="diplomatic-text" rend="unknown">妻</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c08">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f11-l-c03">
               <label>左頁第3欄上方三行小字</label>
               <seg type="diplomatic-text" rend="unknown">黄連解毒／湯方中皆／清涼之藥</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c08">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f11-l-c07">
               <label>左頁第7欄上方四行小字</label>
               <seg type="diplomatic-text" rend="unknown">八味丸方／中有附子／桂支之辛／温</seg>
             </ab>

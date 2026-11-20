@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '診病筆記（慶應義塾大學 F-シ-191，正文記 1837 年） / Shinbyō hikki [Diagnostic notes and case
   records]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

@@ -4,10 +4,10 @@
   "source": "https://kokusho.nijl.ac.jp/biblio/100242589",
   "iiif_manifest": "https://kokusho.nijl.ac.jp/biblio/100242589/manifest",
   "source_rights_policy": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 26,
   "content_scan_count": 7,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

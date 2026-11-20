@@ -17,7 +17,7 @@
     "manifest_url": "https://kokusho.nijl.ac.jp/biblio/100242589/manifest",
     "manifest_sha256": "3386261fd3eb467447a12758a40e52a40094ca16c16041ccc56e07eeaa007854",
     "record_id": "NIJL100242589",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       5,
       6,
@@ -27,9 +27,9 @@
       10,
       11
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "診病筆記（慶應義塾大學 F-シ-191，正文記 1837 年） / Shinbyō hikki [Diagnostic notes and case records]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -141,7 +141,7 @@
           "columns": [],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前襯鉛筆字上",
               "text": "490.9／Sh-1",
               "column_anchor": null,
@@ -152,14 +152,14 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前襯鉛筆字中",
               "text": "No.3617",
               "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前襯鉛筆字下",
               "text": "12 S 90",
               "column_anchor": null,
@@ -184,7 +184,7 @@
               "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前襯下墨號",
               "text": "1924",
               "column_anchor": null,
@@ -197,21 +197,21 @@
           "columns": [],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前葉右題",
               "text": "鄙稿",
               "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "前葉左題",
               "text": "斧政",
               "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "題下署名",
               "text": "三宅均拜",
               "column_anchor": null,
@@ -234,19 +234,12 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "版面",
-              "text": "正文未起，中央有朱色方印，可見透字。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "seal",
               "location": "藏印",
@@ -297,10 +290,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
-              "location": "上欄小字",
+              "type": "manuscript-annotation",
+              "location": "左頁第7欄上方眉注（有為旁書小字）",
               "text": "明吳有性／字又可著／温疫論",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown",
               "lines": [
                 "明吳有性",
@@ -309,24 +302,24 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左3旁添",
               "text": "至（鄰「蒸暄」，黑色重描字字界待核）",
-              "column_anchor": 10,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左4旁添",
               "text": "也（鄰「耳」）",
-              "column_anchor": 10,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
         }
       ],
       "issues": [],
-      "observations": "左面：左3「蒸暄」間有重描及旁添，未臆補原字。左5「均長」、左6「噬」、左9「候」均暫讀，待覆核。 左面：底本 SHA-256 775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea。"
+      "observations": "右面：正文由左面起，右面有館藏方印。 左面：左3「蒸暄」間有重描及旁添，未臆補原字。左5「均長」、左6「噬」、左9「候」均暫讀，待覆核。 左面：底本 SHA-256 775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea。"
     },
     {
       "image": 6,
@@ -339,7 +332,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -377,38 +370,38 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "石膏涼藥附子温物相爲仇敵",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "荻野台州乃尚藥医名京中",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "白虎湯主用石膏",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右2、右3並行小字",
               "text": "台州",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右3、右4間小字",
               "text": "奏其功／〔日文小字數字待辨〕",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "奏其功",
@@ -416,10 +409,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右7下注文",
               "text": "吉村文哲",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -460,17 +453,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左1旁添",
               "text": "後（「与」旁）",
-              "column_anchor": 10,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左3旁注",
               "text": "茯苓（近「水」字）",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -480,9 +473,11 @@
         {
           "side": "left",
           "column": 1,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "context": "續□",
+          "candidates": [
+            "州"
+          ],
+          "note": "第6、7幅四見同形，形近州，未定字照留。"
         },
         {
           "side": "left",
@@ -533,7 +528,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -571,38 +566,38 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "脉舌ノ様ハ〔未定〕",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "內經素問後人以爲黄帝所著",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "橘皮丁香古來以爲治呃逆主藥",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右7旁添",
               "text": "後（鄰「第」）；頗（鄰「始」）",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右9旁注",
               "text": "拘ル（小字假名）",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -643,24 +638,24 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "柴葛解肌湯方中有石膏真武湯方中主附子",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左7窗注",
               "text": "以後〔字形與旁訂位置待辨〕",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左7医名小字",
               "text": "龍神良仙",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -670,23 +665,29 @@
         {
           "side": "right",
           "column": 1,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "context": "續□",
+          "candidates": [
+            "州"
+          ],
+          "note": "第6、7幅四見同形，形近州，未定字照留。"
         },
         {
           "side": "right",
           "column": 7,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "context": "續□",
+          "candidates": [
+            "州"
+          ],
+          "note": "第6、7幅四見同形，形近州，未定字照留。"
         },
         {
           "side": "left",
           "column": 9,
-          "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "context": "續□",
+          "candidates": [
+            "州"
+          ],
+          "note": "第6、7幅四見同形，形近州，未定字照留。"
         }
       ],
       "observations": "左面：右1、右7、左9「續」後字與第6幅相同，待互證。右4「樽」、右10「真陶犬瓦」、左3「禓」、左6「幡」均暫讀，待覆核。 左面：底本 SHA-256 93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567。"
@@ -702,7 +703,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -740,10 +741,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右9医名小字",
               "text": "山嵜松意",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -784,17 +785,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "上欄小字",
               "text": "桂枝延胡諸藥皆破血峻撃之劑",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左1夾注",
               "text": "凡妊娠未彌月因病致産者十七八爲死胎",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -822,7 +823,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -860,17 +861,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第3欄「前」外小字",
               "text": "某",
-              "column_anchor": 10,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第3欄「医」後雙行小字",
               "text": "龍神／良仙",
-              "column_anchor": 10,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "龍神",
@@ -878,10 +879,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第5欄「膊」後雙行小字",
               "text": "露手及膊者／於術為難",
-              "column_anchor": 10,
+              "column_anchor": 5,
               "color": "unknown",
               "lines": [
                 "露手及膊者",
@@ -889,10 +890,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第8欄上段雙行小字",
               "text": "諸產科施回生術必俟胎死／予所得則有下活胎之法",
-              "column_anchor": 10,
+              "column_anchor": 8,
               "color": "unknown",
               "lines": [
                 "諸產科施回生術必俟胎死",
@@ -900,10 +901,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁末欄「番」左小字",
               "text": "大",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -944,10 +945,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第3欄「許之」右小字",
-              "text": "進藤曰□",
-              "column_anchor": 10,
+              "text": "進藤士番",
+              "column_anchor": 3,
               "color": "unknown"
             }
           ]
@@ -1045,7 +1046,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1057,7 +1058,7 @@
               "text": "用藥之久碎其塊而化其質則将来又不可量也"
             },
             {
-              "text": "丹羽正□妹年廿歲許肝木亢動々則致□癪心下石硬"
+              "text": "丹羽正□妹年廿歲許肝木亢動〻則致□□心下石硬"
             },
             {
               "text": "大便堅実甚則手足軟痿或數日不省人事三兩年前患"
@@ -1083,21 +1084,21 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第9欄「室」右小字",
               "text": "妻",
-              "column_anchor": 10,
+              "column_anchor": 9,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第9欄「医」後雙行小字",
-              "text": "後藤／逸",
-              "column_anchor": 10,
+              "text": "後藤／元迪",
+              "column_anchor": 9,
               "color": "unknown",
               "lines": [
                 "後藤",
-                "逸"
+                "元迪"
               ]
             }
           ]
@@ -1124,7 +1125,7 @@
               "text": "陳藏器曰風在骨節間及血瘀者作酒服之"
             },
             {
-              "text": "甄權曰治大熱煩躁止渇利小便壓一切熱毒"
+              "text": "甄權曰治大熱煩躁止渇利小便厭一切熱毒"
             },
             {
               "text": "又曰暑月以根和甘草同煎為飲色如琥珀可愛甚甘美"
@@ -1138,10 +1139,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第2欄上方雙行小字",
               "text": "漢張機／傷寒論",
-              "column_anchor": 10,
+              "column_anchor": 2,
               "color": "unknown",
               "lines": [
                 "漢張機",
@@ -1149,10 +1150,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第6欄上方雙行小字",
               "text": "唐人著／本艸拾遺",
-              "column_anchor": 10,
+              "column_anchor": 6,
               "color": "unknown",
               "lines": [
                 "唐人著",
@@ -1160,10 +1161,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第7欄上方雙行小字",
               "text": "唐人著／藥性本艸",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown",
               "lines": [
                 "唐人著",
@@ -1195,7 +1196,7 @@
       "native_width": 5760,
       "native_height": 3840,
       "content_role": "diagnostic-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1233,10 +1234,10 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第1欄上方雙行小字",
               "text": "晉葛洪／著",
-              "column_anchor": 10,
+              "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "晉葛洪",
@@ -1244,7 +1245,7 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "右頁第10欄上方三行小字",
               "text": "波多野青雅／称増田屋／太郎市者",
               "column_anchor": 10,
@@ -1287,17 +1288,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第2欄「室」右小字",
               "text": "妻",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第3欄上方三行小字",
               "text": "黄連解毒／湯方中皆／清涼之藥",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "黄連解毒",
@@ -1306,10 +1307,10 @@
               ]
             },
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左頁第7欄上方四行小字",
               "text": "八味丸方／中有附子／桂支之辛／温",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown",
               "lines": [
                 "八味丸方",
