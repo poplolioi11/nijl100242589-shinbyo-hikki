@@ -1,0 +1,1523 @@
+{
+  "metadata": {
+    "title": "診病筆記",
+    "catalogue_title": "診病筆記",
+    "alternate_title": "Shinbyō hikki",
+    "roman_title": "Shinbyō hikki",
+    "author": "三宅均（記）",
+    "date": "開篇記天保丁酉（1837），寫本年代未另著錄。",
+    "location": "東京（現藏）",
+    "repository": "慶應義塾大學信濃町媒體中心北里紀念醫學圖書館",
+    "repository_en": "Kitasato Memorial Medical Library, Keio University",
+    "collection": "富士川文庫",
+    "shelfmark": "F-シ-191",
+    "catalogue": "https://kokusho.nijl.ac.jp/biblio/100242589",
+    "rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja",
+    "description": "江戶末期漢文診察筆記，記疫熱、個別病人及診病經過。本項轉錄正篇，附冊其他文稿保留定位。",
+    "manifest_url": "https://kokusho.nijl.ac.jp/biblio/100242589/manifest",
+    "manifest_sha256": "3386261fd3eb467447a12758a40e52a40094ca16c16041ccc56e07eeaa007854",
+    "record_id": "NIJL100242589",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "version": "0.1.0",
+    "dataset_title": "診病筆記（慶應義塾大學 F-シ-191，正文記 1837 年） / Shinbyō hikki [Diagnostic notes and case records]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/1",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00000.tif/full/full/0/default.jpg",
+      "label": "1",
+      "file": "01.jpg",
+      "sha256": "c61a36243b719a0e0be1a06c18941d0d26bd4a4664605a7e85cb36c5ceb989f3",
+      "bytes": 181511,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/2",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00001.tif/full/full/0/default.jpg",
+      "label": "2",
+      "file": "02.jpg",
+      "sha256": "2bfea62172bb98735eb8ed844a978428bc04b91560e80d345c0cfd7e2fa4317a",
+      "bytes": 262089,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "covers-and-ownership-marks",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "外帙題籤",
+              "text": "診病筆記",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍色外帙及題簽，和第3幅內書前封分錄。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/3",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00002.tif/full/full/0/default.jpg",
+      "label": "3",
+      "file": "03.jpg",
+      "sha256": "171a72a489dc204b2b77d9cfde4eaf2a29bd3c8e22861dc83bdf8abe3a3a2107",
+      "bytes": 232364,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "covers-and-ownership-marks",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "前封題籤",
+              "text": "診病筆記",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封右上貼籤",
+              "text": "S 90",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封右下慶應館籤",
+              "text": "F シ-191",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：正冊棕色前封，保留館號與題名。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/4",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00003.tif/full/full/0/default.jpg",
+      "label": "4",
+      "file": "04.jpg",
+      "sha256": "b8672382b0dd81aa996909b1fac707ee81dd7dc2cc5cb3a7bdfd2b8763c1dcab",
+      "bytes": 206557,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "covers-and-ownership-marks",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "前襯鉛筆字上",
+              "text": "490.9／Sh-1",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "490.9",
+                "Sh-1"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "前襯鉛筆字中",
+              "text": "No.3617",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "前襯鉛筆字下",
+              "text": "12 S 90",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "前襯圓朱印",
+              "text": "慶應義塾大学医学情報センター／昭和47年7月6日",
+              "column_anchor": null,
+              "color": "red",
+              "lines": [
+                "慶應義塾大学医学情報センター",
+                "昭和47年7月6日"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "前襯下朱印",
+              "text": "富士川文庫",
+              "column_anchor": null,
+              "color": "red"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "前襯下墨號",
+              "text": "1924",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "前葉右題",
+              "text": "鄙稿",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "前葉左題",
+              "text": "斧政",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "題下署名",
+              "text": "三宅均拜",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：昭和日期及墨號為館藏記錄。 左面：本幅為正文前單葉題記，與第5幅內題及正篇正文分開。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/5",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00004.tif/full/full/0/default.jpg",
+      "label": "5",
+      "file": "05.jpg",
+      "sha256": "775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea",
+      "bytes": 238439,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "版面",
+              "text": "正文未起，中央有朱色方印，可見透字。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "藏印",
+              "text": "慶應義塾／大學醫學部／北里記念圖書（依篆形暫辨，「部」待覆核）",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "慶應義塾",
+                "大學醫學部",
+                "北里記念圖書（依篆形暫辨，「部」待覆核）"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "診病筆記"
+            },
+            {
+              "text": "天保丁酉春予自京歸疫熱大行延門合戶互相傳染蓋"
+            },
+            {
+              "text": "客春以來霖雨蒸暄冷失序至秋米穀不稔其他卉木"
+            },
+            {
+              "text": "亦皆不得繁茂是蓋天地之厲氣耳人之有生亦同在此"
+            },
+            {
+              "text": "氣中而均長其物卉木既已如此則人豈得無疾病哉况"
+            },
+            {
+              "text": "飢而不食或噬木皮或食糟糠是以胃氣餒而本氣不充"
+            },
+            {
+              "text": "外邪之所以易入也故患之者卑賤之人十居其七吳又"
+            },
+            {
+              "text": "可曰疫者感天地之厲氣本氣充滿邪不易入又曰飽食"
+            },
+            {
+              "text": "者不病是也其証候頭痛灼熱大渴煩躁目昏耳聾甚則"
+            },
+            {
+              "text": "譫語如見鬼狀是其爲陽証判然可知也但切其脉沈実"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "明吳有性／字又可著／温疫論",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "明吳有性",
+                "字又可著",
+                "温疫論"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左3旁添",
+              "text": "至（鄰「蒸暄」，黑色重描字字界待核）",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左4旁添",
+              "text": "也（鄰「耳」）",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左3「蒸暄」間有重描及旁添，未臆補原字。左5「均長」、左6「噬」、左9「候」均暫讀，待覆核。 左面：底本 SHA-256 775a62d6fa39615b159806e2e0f975d0d148d26abb8d1c85f2c15f2d7c24f2ea。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/6",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00005.tif/full/full/0/default.jpg",
+      "label": "6",
+      "file": "06.jpg",
+      "sha256": "9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32",
+      "bytes": 293632,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "而無力觀其舌紅朱而無胎者則陰氣內伏虛火炎上之"
+            },
+            {
+              "text": "所致誤爲陽証与大黄石膏類則其變如翻手矣予讀荻"
+            },
+            {
+              "text": "野尚藥温疫餘論視其多用附子以免危急乃斷然投附"
+            },
+            {
+              "text": "子能得起死者往々有之今記其一二於下"
+            },
+            {
+              "text": "指物屋善代藏年三十許患疫十二日煩熱不解大渴引"
+            },
+            {
+              "text": "飲日夜不得眠譫語如有所視真白虎之的証也而察其"
+            },
+            {
+              "text": "脉舌則是非陽証陰火炎上勘而可知也初服其医"
+            },
+            {
+              "text": "藥諸証日盛乃延予々私按其劑果菊花茶調加石膏也"
+            },
+            {
+              "text": "予指石膏示其婦曰本劑実當但此一味在予則雲泥不"
+            },
+            {
+              "text": "啻諸証之日盛実依此一味也乃与柴胡陷胸加附子細"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "石膏涼藥附子温物相爲仇敵",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "荻野台州乃尚藥医名京中",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "白虎湯主用石膏",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右2、右3並行小字",
+              "text": "台州",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右3、右4間小字",
+              "text": "奏其功／〔日文小字數字待辨〕",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "奏其功",
+                "〔日文小字數字待辨〕"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右7下注文",
+              "text": "吉村文哲",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "辛葛根續□湯与之三服譫語即止後三日跪坐告状又"
+            },
+            {
+              "text": "二日諸証頓退乃投竹茹温胆湯以解其餘熱後足趺微"
+            },
+            {
+              "text": "腫乃与医王加水復平常"
+            },
+            {
+              "text": "某氏女年廿三四患疫初発苦頭痛舌微白胎渴欲飲水"
+            },
+            {
+              "text": "与食則呕与九味清脾湯其呕雖止悪食如故熱氣益熾"
+            },
+            {
+              "text": "三日食益不進舌胎頓消其色如朱六七日心腹脹満身"
+            },
+            {
+              "text": "体痺痛耳聾目赤大便不通患者促下予曰勿急不通乃"
+            },
+            {
+              "text": "藥乃斷然与柴胡陷胸加附子葛根兼以泊夫藍龍腦至"
+            },
+            {
+              "text": "十二三日諸証自若食殆絶此時予猶狐疑于附子於是"
+            },
+            {
+              "text": "試与柴陷加大黄一服明日大便瀉利神氣稍衰乃知其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左1旁添",
+              "text": "後（「与」旁）",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左3旁注",
+              "text": "茯苓（近「水」字）",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "予",
+          "candidates": [],
+          "note": "右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "續",
+          "candidates": [],
+          "note": "右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "茹",
+          "candidates": [],
+          "note": "右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "水",
+          "candidates": [],
+          "note": "右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "促",
+          "candidates": [],
+          "note": "右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。"
+        }
+      ],
+      "observations": "左面：右2「予」「讀」間有塗改，右5名字「善」亦可能為「喜」，右7「勘」暫讀。左1「續」後一字末形近「州」而未定，與第7幅反覆字同核；左2「茹」、左3「水」、左7「促」待覆核。 左面：底本 SHA-256 9eb7e848adbc8bab07ecc1fb887ff427ae1af49298ee6068da1dcac4d6e2da32。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/7",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00006.tif/full/full/0/default.jpg",
+      "label": "7",
+      "file": "07.jpg",
+      "sha256": "93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567",
+      "bytes": 297170,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "誤下急復前劑更加續□經十六日諸証大退後數日起"
+            },
+            {
+              "text": "起是予用附子先登之功也後遇此証輒用附子多救危"
+            },
+            {
+              "text": "難"
+            },
+            {
+              "text": "樽屋文助年五十八九患疫五六日延予々至起坐告状"
+            },
+            {
+              "text": "如不病者頭痛時甚食味二便無変診之脉舌雖淡諸証"
+            },
+            {
+              "text": "較輕唯以年齒之高爲恐耳即投柴胡陷胸加附子細辛"
+            },
+            {
+              "text": "續□湯第十日噦発數日不止雖熱勢不熾氣體始羸時"
+            },
+            {
+              "text": "発譫語經曰病深者其聲噦予是以益恐之百方無効凡"
+            },
+            {
+              "text": "八日而噦自止諸証亦漸退後逢此証不必拘于治噦但"
+            },
+            {
+              "text": "治其熱以待自然當其盛則橘皮丁香真陶犬瓦雞耳吳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "脉舌ノ様ハ〔未定〕",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "內經素問後人以爲黄帝所著",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "橘皮丁香古來以爲治呃逆主藥",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右7旁添",
+              "text": "後（鄰「第」）；頗（鄰「始」）",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右9旁注",
+              "text": "拘ル（小字假名）",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "氏曰但治本証其呃自止"
+            },
+            {
+              "text": "下村作大夫年四十餘初患頭痛自以爲上氣灸足三里"
+            },
+            {
+              "text": "袒禓不避風日後四五日頭痛益甚発熱悪寒自知爲邪"
+            },
+            {
+              "text": "氣所冐延予々初与柴葛解肌湯諸証漸長舌如傅朱渴"
+            },
+            {
+              "text": "欲熱水譫語煩熱胸中痞悶時吐津唾小便短少予視其"
+            },
+            {
+              "text": "舌状幡然轉真武湯兼以泊夫藍龍腦更与烏梅丸吐唾"
+            },
+            {
+              "text": "即止第九日延一医處以瀉心導赤散雖有所異与"
+            },
+            {
+              "text": "予所見不同以恐當局之有惑姑按其所處後二日諸証"
+            },
+            {
+              "text": "自若渴益甚乃又作柴胡陷胸加附子細辛續□湯与之"
+            },
+            {
+              "text": "十七八日諸証漸退但身重足弱乃与医王加麥門冬五"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "柴葛解肌湯方中有石膏真武湯方中主附子",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左7窗注",
+              "text": "以後〔字形與旁訂位置待辨〕",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左7医名小字",
+              "text": "龍神良仙",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：右1、右7、左9「續」後字與第6幅相同，待互證。右4「樽」、右10「真陶犬瓦」、左3「禓」、左6「幡」均暫讀，待覆核。 左面：底本 SHA-256 93f368cef17d714a0839289723f53fb553621c7857f0bac5ed436b2882a30567。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/8",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00007.tif/full/full/0/default.jpg",
+      "label": "8",
+      "file": "08.jpg",
+      "sha256": "2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb",
+      "bytes": 296757,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "味子湯稍々復故"
+            },
+            {
+              "text": "世医不知今歳之疫或屬陰証輒投黄連解毒湯若瀉"
+            },
+            {
+              "text": "心導赤散類療之凡是等之方雖係清熱比之石膏大"
+            },
+            {
+              "text": "黄類絶無峻涼攻撃之効故雖用之無大害自非沈深"
+            },
+            {
+              "text": "之証亦能随而解但遷延引日変証漸至或小便癃閉"
+            },
+            {
+              "text": "或遍身浮腫其他諸証不可量識至此俄変志于附子"
+            },
+            {
+              "text": "曰証之轉変雖固如此也是非証之罪不知其初既爲"
+            },
+            {
+              "text": "陰証之罪也并録備後察"
+            },
+            {
+              "text": "茶屋利兵衛妻年廿五六妊娠八月患疫医投柴胡"
+            },
+            {
+              "text": "陷胸湯黄連解毒湯類副以泊夫藍龍腦五月二日辰牌"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右9医名小字",
+              "text": "山嵜松意",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "分娩活胎胞衣不下未牌延予々"
+            },
+            {
+              "text": "曰夫胞衣不下治産科之所難大抵先投破血峻撃之劑"
+            },
+            {
+              "text": "不及而後施息胞之術尋常婦人猶恐卒変况此婦疫熱"
+            },
+            {
+              "text": "熾盛神氣始衰雖此一証危殆難圖決不可投峻撃之劑"
+            },
+            {
+              "text": "况手術乎但泊夫藍龍腦功兼兩証宜倍其量請且主用"
+            },
+            {
+              "text": "黄連解毒湯四物湯合方加茅□大量以候自然耳前医"
+            },
+            {
+              "text": "隨予言夜延後藤元迪其按曰二難実并宜先投柴胡陷"
+            },
+            {
+              "text": "胸湯兼以小劑桂枝延胡索桃仁牡丹皮類以試其機遂"
+            },
+            {
+              "text": "隨其言明日巳牌胞衣自下神氣稍安後熱候歴險而状"
+            },
+            {
+              "text": "復嗚乎微後藤氏之勇則不至如此孫真人曰志欲大信"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上欄小字",
+              "text": "桂枝延胡諸藥皆破血峻撃之劑",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左1夾注",
+              "text": "凡妊娠未彌月因病致産者十七八爲死胎",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 6,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：右3「凡是」、右8「并」、右9醫名用字依圖暫錄。左3「息胞」、左6「茅」次字及左10「嗚」待覆核。左10以下跨幅續文。 左面：底本 SHA-256 2659701fa84fb963dce1048300d2acc9003a38e242b22ed27091e00ece6bd1cb。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/9",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00008.tif/full/full/0/default.jpg",
+      "label": "9",
+      "file": "09.jpg",
+      "sha256": "d0aa7845d7cd3dfc82cb775fae1440394d8fed9ef8e39ec3211ab2490a793f4c",
+      "bytes": 288848,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "矣"
+            },
+            {
+              "text": "近藤熊之助妻年三十許妊娠彌月臨盆破漿已來三日"
+            },
+            {
+              "text": "不娩胎橫露手前医既与十全大補湯第二朝以予"
+            },
+            {
+              "text": "近至京新得產術延予診之脈微弱腹狀虛軟乃探宮察"
+            },
+            {
+              "text": "之見露右手既已及膊乃按腹整胎整橫諸"
+            },
+            {
+              "text": "術施之數三四次期以候晚施術晡時陣疼纔至力息始"
+            },
+            {
+              "text": "來脈亦少數予診曰可矣今而不下胎死腹中母体隨危"
+            },
+            {
+              "text": "申之以此病家不肯曰請候"
+            },
+            {
+              "text": "自然至夜諸候自若体気漸憊按之胎死不動予荐促之"
+            },
+            {
+              "text": "不許苦楚漸加腹内痺痛不眠徹晨明晨其族進藤士番"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第3欄「前」外小字",
+              "text": "某",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第3欄「医」後雙行小字",
+              "text": "龍神／良仙",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "龍神",
+                "良仙"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第5欄「膊」後雙行小字",
+              "text": "露手及膊者／於術為難",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "露手及膊者",
+                "於術為難"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第8欄上段雙行小字",
+              "text": "諸產科施回生術必俟胎死／予所得則有下活胎之法",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "諸產科施回生術必俟胎死",
+                "予所得則有下活胎之法"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁末欄「番」左小字",
+              "text": "大",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "夫來揖曰產婦痛苦我不忍坐視之請子為下之予曰苦"
+            },
+            {
+              "text": "楚弥甚憊羸益極今而施術命危於累卵萬一有変而門"
+            },
+            {
+              "text": "闔家果無遺憾乎則予為下之許之婦与其母聞之泣曰"
+            },
+            {
+              "text": "若為下之先賜一貼麻藥否則恐倍苦痛予以其非證不"
+            },
+            {
+              "text": "聽其母曰不得則寧使我死而後用術諸医相謀作單味"
+            },
+            {
+              "text": "廣參湯偽為麻藥与之并以消夫慮乃隨法以回生術下"
+            },
+            {
+              "text": "之胎鎮然不動且施且休第三次始下母体殊安痺痛隨"
+            },
+            {
+              "text": "治一門闔家以予為司命是予治產施術初顯之功人亦"
+            },
+            {
+              "text": "聞之称譽實四月廿六日也蓋按此婦曩患風湿未全復"
+            },
+            {
+              "text": "而妊產者前後六回逆產者一兒育者一人左股下有塊"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第3欄「許之」右小字",
+              "text": "進藤曰□",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "及膊",
+          "candidates": [],
+          "note": "「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "整胎整橫",
+          "candidates": [],
+          "note": "「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "整",
+          "candidates": [],
+          "note": "「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "士番",
+          "candidates": [],
+          "note": "「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "大",
+          "candidates": [],
+          "note": "「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "左頁第3欄「許之」右小字",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "揖",
+          "candidates": [],
+          "note": "第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "憊羸",
+          "candidates": [],
+          "note": "第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "消夫慮",
+          "candidates": [],
+          "note": "第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "慮",
+          "candidates": [],
+          "note": "第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "許",
+          "candidates": [],
+          "note": "第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+        }
+      ],
+      "observations": "右面：「及膊」兩見，右旁筆畫簡寫。「整胎整橫」前一「整」上部草寫。末欄「士番」與左下小字「大」的關係未定。 左面：第1欄「揖」右部行草可疑。第2欄「憊羸」連筆。第6欄候讀「消夫慮」；「慮」下部寫法特殊。第3欄「許」旁有直線。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/10",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00009.tif/full/full/0/default.jpg",
+      "label": "10",
+      "file": "10.jpg",
+      "sha256": "fafdc11234f8fe7683eaa7dc1210313c9655be08dd9c05b46968b4931537fb81",
+      "bytes": 275825,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "按之則痛患之十餘年諸療無効加之以質之薄弱若非"
+            },
+            {
+              "text": "用藥之久碎其塊而化其質則将来又不可量也"
+            },
+            {
+              "text": "丹羽正□妹年廿歲許肝木亢動々則致□癪心下石硬"
+            },
+            {
+              "text": "大便堅実甚則手足軟痿或數日不省人事三兩年前患"
+            },
+            {
+              "text": "之兩度与破血攻撃抑肝鎮痙之劑而愈今夏卒発乾咳"
+            },
+            {
+              "text": "數日不止診之心下石硬乃与小陷胸加杏子湯十餘貼"
+            },
+            {
+              "text": "無寸効乃知是前年之変候与大柴胡加杏子虎杖湯大"
+            },
+            {
+              "text": "便快下而愈経曰病有標本不可不察也"
+            },
+            {
+              "text": "渡部藤太室數日苦腹痛一医以為蚘虫療之痛日"
+            },
+            {
+              "text": "増劇延予曰廃藥待子久矣予診之心下石硬痛不可近"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第9欄「室」右小字",
+              "text": "妻",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第9欄「医」後雙行小字",
+              "text": "後藤／逸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "後藤",
+                "逸"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "乃告曰是非蚘虫毒結胸中也問其大便則曰不通數日"
+            },
+            {
+              "text": "乃作大陷胸湯与之三服而大便快下硬痛頓消論曰心"
+            },
+            {
+              "text": "下滿而硬痛者此為結胸也大陷胸湯主之"
+            },
+            {
+              "text": "虎杖説"
+            },
+            {
+              "text": "虎杖和名乙達得栗本艸綱目湿艸部載之"
+            },
+            {
+              "text": "陳藏器曰風在骨節間及血瘀者作酒服之"
+            },
+            {
+              "text": "甄權曰治大熱煩躁止渇利小便壓一切熱毒"
+            },
+            {
+              "text": "又曰暑月以根和甘草同煎為飲色如琥珀可愛甚甘美"
+            },
+            {
+              "text": "瓶置井中令冷澈如氷時人呼為冷飲子啜之且尊於茗"
+            },
+            {
+              "text": "極解暑毒"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第2欄上方雙行小字",
+              "text": "漢張機／傷寒論",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "漢張機",
+                "傷寒論"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第6欄上方雙行小字",
+              "text": "唐人著／本艸拾遺",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "唐人著",
+                "本艸拾遺"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄上方雙行小字",
+              "text": "唐人著／藥性本艸",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "唐人著",
+                "藥性本艸"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：第3欄「丹羽正□」末字形近「司」或「月」。第3欄「□癪」前字形繁，候「癇」。第9欄醫者小字姓名後一字似「逸」或「迪」。第9欄「蚘」同左頁第1欄。 左面：第4欄為篇題。第5欄和名逐字候讀「乙達得栗」；原有空格區分和名與文獻。第7欄「壓」為描述文字中的原讀。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/11",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00010.tif/full/full/0/default.jpg",
+      "label": "11",
+      "file": "11.jpg",
+      "sha256": "1e8a90fe98ed63a250613aea21beda8c51f42b55449feedccb76c9ffdeb21013",
+      "bytes": 272155,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "diagnostic-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "肘後方曰時疫流毒攻手足腫痛欲斷用虎杖根剉煮汁"
+            },
+            {
+              "text": "漬之"
+            },
+            {
+              "text": "董庵氏按今茲丁酉疫熱大行延門合戸連枕并蓐世俗"
+            },
+            {
+              "text": "多煎虎杖根甘艸二味服之以為除疫良劑蓋近年治痙"
+            },
+            {
+              "text": "病必以此為君按古説未有及之者但相傳以為破血劑"
+            },
+            {
+              "text": "頗称其功旁及除熱解暑之説按此物気温能破宿血故"
+            },
+            {
+              "text": "亦駆散表邪猶桂枝功今標本艸所引除熱一二説以證"
+            },
+            {
+              "text": "俗傳有據蓋邪気在表服之可散其在裡則無効諸血虛"
+            },
+            {
+              "text": "家宜忌用之若夫以此専為除疫良劑不顧佗藥者則愚"
+            },
+            {
+              "text": "眞鄙民之常豈足以議乎或波多野青雅以鬻藥為産以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第1欄上方雙行小字",
+              "text": "晉葛洪／著",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "晉葛洪",
+                "著"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第10欄上方三行小字",
+              "text": "波多野青雅／称増田屋／太郎市者",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "波多野青雅",
+                "称増田屋",
+                "太郎市者"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人之買虎杖者多問予其説因録此似之"
+            },
+            {
+              "text": "堀田金弥室齒齦腫痛漸成紫色臭膿淋漓身熱時熾乃"
+            },
+            {
+              "text": "服以黄連解毒湯加大黄更以家方雞舌散含嗽口中又"
+            },
+            {
+              "text": "傅其齦上以氷硼散二十餘日而全効"
+            },
+            {
+              "text": "三好半五郎男年十歳許亦患前證但熱気不甚小便澀"
+            },
+            {
+              "text": "滯乃反投以八味丸料含嗽傅敷則如前法未旬日全効"
+            },
+            {
+              "text": "蓋前證之与此證芩連附子之所以異則在其熱候与小"
+            },
+            {
+              "text": "便耳用劑相反則災害並至不可不慎也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁第2欄「室」右小字",
+              "text": "妻",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第3欄上方三行小字",
+              "text": "黄連解毒／湯方中皆／清涼之藥",
+              "column_anchor": 8,
+              "color": "unknown",
+              "lines": [
+                "黄連解毒",
+                "湯方中皆",
+                "清涼之藥"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄上方四行小字",
+              "text": "八味丸方／中有附子／桂支之辛／温",
+              "column_anchor": 8,
+              "color": "unknown",
+              "lines": [
+                "八味丸方",
+                "中有附子",
+                "桂支之辛",
+                "温"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第3欄「延門」照字，或為「沿門」借寫。第9欄「佗」右旁簡寫。 左面：左頁第8欄「也」後有留白，結前病例。淡反透不另作正文。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/12",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00011.tif/full/full/0/default.jpg",
+      "label": "12",
+      "file": "12.jpg",
+      "sha256": "19dd32023cd89cbd0d7e72c1dd23c2e02b82fc87ac3fd13e15ca53a1acc0122d",
+      "bytes": 228447,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/13",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00012.tif/full/full/0/default.jpg",
+      "label": "13",
+      "file": "13.jpg",
+      "sha256": "7424677c9a3e1b6e3a7fd84d4bc882a95662d73cca43b4bf85b485d6d608fde5",
+      "bytes": 221600,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/14",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00013.tif/full/full/0/default.jpg",
+      "label": "14",
+      "file": "14.jpg",
+      "sha256": "b9233523f460c22024bf04d8c740eb1b7f3210c4b0dea306d1d8386219c6daa0",
+      "bytes": 238413,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/15",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00014.tif/full/full/0/default.jpg",
+      "label": "15",
+      "file": "15.jpg",
+      "sha256": "91b66a141a21a6ed8bb4f35a209af8a235e1d62bedbda65661cdf5d19476a082",
+      "bytes": 200190,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/16",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00015.tif/full/full/0/default.jpg",
+      "label": "16",
+      "file": "16.jpg",
+      "sha256": "c4b38953d6b00d5d16a9d19c29d2226f5fb65c31255e2b908a643d14dca9f029",
+      "bytes": 209274,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/17",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00016.tif/full/full/0/default.jpg",
+      "label": "17",
+      "file": "17.jpg",
+      "sha256": "4c8430c03ca51ddda11e91835982856141a4e8af299a2ca93833ad9eb02ce27c",
+      "bytes": 250347,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/18",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00017.tif/full/full/0/default.jpg",
+      "label": "18",
+      "file": "18.jpg",
+      "sha256": "0db885ce5adaaa8898fafd00e8c04e154e1f20781c82666b6da7b73f95e69d53",
+      "bytes": 243192,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/19",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00018.tif/full/full/0/default.jpg",
+      "label": "19",
+      "file": "19.jpg",
+      "sha256": "847e78d4939af9638a7c07da09e748ea764ac68e000536e5cb09270d71a8f741",
+      "bytes": 240090,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/20",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00019.tif/full/full/0/default.jpg",
+      "label": "20",
+      "file": "20.jpg",
+      "sha256": "f541215aa609ee5bf3f57b5411b5b6cee40f10b4880c1a038bd7e159ef66b3a6",
+      "bytes": 240570,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/21",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00020.tif/full/full/0/default.jpg",
+      "label": "21",
+      "file": "21.jpg",
+      "sha256": "5e3aa8429f5f7b5aaddead9f7c4bc97ec3e67a078848f7bc55fd0957b3a82024",
+      "bytes": 254516,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/22",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00021.tif/full/full/0/default.jpg",
+      "label": "22",
+      "file": "22.jpg",
+      "sha256": "7282d6e0ba34e3d79087b494a707f1fa8c96970cea7b3d5b225b63ffba1f852a",
+      "bytes": 259159,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/23",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00022.tif/full/full/0/default.jpg",
+      "label": "23",
+      "file": "23.jpg",
+      "sha256": "f2a3cfb458b8060def7c4111f4fd0853b85bb9ecad3836b178b2ccc6a9224312",
+      "bytes": 230128,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/24",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00023.tif/full/full/0/default.jpg",
+      "label": "24",
+      "file": "24.jpg",
+      "sha256": "b08de7cf11426436c108d0a563c7c97ac7c0f2a55aa9007d5d7dcc4ab61010fd",
+      "bytes": 230781,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/25",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00024.tif/full/full/0/default.jpg",
+      "label": "25",
+      "file": "25.jpg",
+      "sha256": "db4d565cc5e190c1786c862f6e74e6ef081cb720010f69ab1fa62e4f86386856",
+      "bytes": 199120,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/100242589/canvas/26",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/100242589/v4/KEIO/KEIO-00146/KEIO-00146-00025.tif/full/full/0/default.jpg",
+      "label": "26",
+      "file": "26.jpg",
+      "sha256": "bd3a7f295f88d5fd81118af2d8b89d4a6d4f487a614d0ad52d39f12254897e2a",
+      "bytes": 188262,
+      "native_width": 5760,
+      "native_height": 3840,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    }
+  ]
+}

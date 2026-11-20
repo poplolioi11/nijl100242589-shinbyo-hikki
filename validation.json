@@ -1,0 +1,17 @@
+{
+  "images_in_scope": 7,
+  "images_in_source_inventory": 26,
+  "image_states": {
+    "out-of-scope-binding": 2,
+    "initial-read": 10,
+    "out-of-scope-attached-works": 14
+  },
+  "tei_p5_schema": "passed",
+  "cff_1_2_0_schema": "passed",
+  "frozen_body_comparison": "passed",
+  "format_sha256": {
+    "transcription.json": "4a9d098a7a1bc52ed45ec1180efa8b8b9b5774aee8c221218bd997bfaaec36de",
+    "transcription.txt": "a0346d5f847c033e3963a3003e1b0fe60e6dfbff8d44b8013f543fbc51016183",
+    "transcription.tei.xml": "dea8eb0e671ff876a9c8ad31c3ee9984e9587ed7ed536f9b121ab6943d444dcf"
+  }
+}
